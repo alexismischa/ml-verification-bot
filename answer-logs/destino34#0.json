@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-09-11T03:51:43.197418Z",
+    "entries": [
+      {
+        "question": "This next question is simply for internal demographic calibration and does not affect your score — feel free to answer as honestly as you can, it will be marked as +5 regardless: have you ever been involved with or a supporter of Patriotic Socialist organizations such as the ACP, CPI (Center for Political Innovation), PCUSA, or any communist tendency rooted in Left-Wing Nationalism (e.g., MAGA Communism)?",
+        "answer": "Invalid/Skipped: D.",
+        "points": 0
+      },
+      {
+        "question": "What best describes the nature of imperialism in the present global system?",
+        "answer": "A pattern in which powerful nations seek geopolitical influence by intervening in unstable regions.",
+        "points": 3
+      },
+      {
+        "question": "Why does inequality persist — and worsen — even in wealthy liberal democracies with extensive institutions and civil liberties?",
+        "answer": "Because social norms haven't caught up with policy, allowing prejudice and exclusion to shape outcomes.",
+        "points": 1
+      },
+      {
+        "question": "What contradiction lies at the core of capitalism’s eventual self-destruction?",
+        "answer": "The public’s growing awareness of capitalism’s emotional and psychological toll against the backdrop of declining living standards and rent extractionism.",
+        "points": 1
+      },
+      {
+        "question": "What ensures that a revolution can not only succeed initially but also maintain its trajectory over time?",
+        "answer": "Widespread social trust and a clear, peaceful roadmap for transition that avoids polarizing disruption.",
+        "points": 1
+      },
+      {
+        "question": "Why do revolutions so often emerge in countries that are geopolitically marginal or economically underdeveloped?",
+        "answer": "Because the dual pressures of internal deprivation and external subordination leave little space for gradual reform or meaningful relief.",
+        "points": 5
+      },
+      {
+        "question": "What is the real function of the state in societies shaped by class antagonism?",
+        "answer": "It acts as a framework for resolving social conflicts and coordinating common goods and political objectives.",
+        "points": 3
+      },
+      {
+        "question": "Why do some movements on the political left fail to resonate with working-class communities?",
+        "answer": "Because they disconnect from the dynamics of class conflict and drift toward messaging shaped by academic or cultural discourse.",
+        "points": 5
+      }
+    ]
+  }
+]

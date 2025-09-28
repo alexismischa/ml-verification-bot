@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-09-10T23:55:30.451655Z",
+    "entries": [
+      {
+        "question": "This next question is simply for internal demographic calibration and does not affect your score — feel free to answer as honestly as you can, it will be marked as +5 regardless: have you ever been involved with or a supporter of Patriotic Socialist organizations such as the ACP, CPI (Center for Political Innovation), PCUSA, or any communist tendency rooted in Left-Wing Nationalism (e.g., MAGA Communism)?",
+        "answer": "I am not, but am looking to learn more about and join them and the ideology that motivates them.",
+        "points": -10
+      },
+      {
+        "question": "Why do revolutions so often emerge in countries that are geopolitically marginal or economically underdeveloped?",
+        "answer": "Because weaker institutions and uneven governance make it harder to contain or postpone systemic crises.",
+        "points": 1
+      },
+      {
+        "question": "In the context of global inequality, what responsibility falls to workers in advanced, developed economies?",
+        "answer": "To preserve the cultural and strategic leadership of their nation in an increasingly unstable world.",
+        "points": -5
+      },
+      {
+        "question": "Within a Communist framework, how should the fight for LGBTQ+ liberation be situated?",
+        "answer": "As a necessary part of the broader revolutionary struggle, since capitalist class relations produce and enforce gendered and sexual oppression.",
+        "points": 5
+      },
+      {
+        "question": "Why does inequality persist — and worsen — even in wealthy liberal democracies with extensive institutions and civil liberties?",
+        "answer": "Because the political will to reform systems like taxation and labor law has eroded over time.",
+        "points": 3
+      },
+      {
+        "question": "Why do some movements on the political left fail to resonate with working-class communities?",
+        "answer": "Because populist rhetoric often aligns more closely with the instincts and values of the average worker than leftist ideology does.",
+        "points": -5
+      },
+      {
+        "question": "What is the real function of the state in societies shaped by class antagonism?",
+        "answer": "It serves as the vanguard of national identity, as the unity of a nation and her people, against ideological and foreign subversion.",
+        "points": -5
+      },
+      {
+        "question": "What ensures that a revolution can not only succeed initially but also maintain its trajectory over time?",
+        "answer": "The restoration of clear hierarchies and responsibilities that reinforce long-standing customs and social order.",
+        "points": -5
+      }
+    ]
+  }
+]

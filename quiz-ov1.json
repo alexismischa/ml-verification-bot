@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What is the core contradiction that ultimately destabilizes capitalism from within?",
+    "options": {
+      "A": ["Persistent inequality between rich and poor resulting from flawed policies", 3],
+      "B": ["The conflict between collective labor that creates value and the private ownership that extracts it", 5],
+      "C": ["Excess consumerism leading to ecological and psychological crises", 0],
+      "D": ["The lack of sufficient regulations to stabilize market competition", 0]
+    }
+  },
+  {
+    "question": "How should LGBTQ+ liberation be understood within Marxist-Leninist political struggle?",
+    "options": {
+      "A": ["It is an essential part of dismantling capitalist social structures and must be integrated into proletarian revolution", 5],
+      "B": ["It’s important, but best pursued after the primary class struggle is won", 3],
+      "C": ["It is largely a cultural concern, not directly tied to material liberation", 0],
+      "D": ["It has been co-opted by neoliberal elites to weaken working-class unity", -5]
+    }
+  },
+  {
+    "question": "Which best reflects a revolutionary attitude toward queer and trans comrades?",
+    "options": {
+      "A": ["They are integral members of the proletariat whose liberation cannot be separated from the class struggle", 5],
+      "B": ["They should be included, but not prioritized, to avoid alienating more traditional workers", 3],
+      "C": ["They often bring unnecessary division to organizing spaces", 0],
+      "D": ["Their visibility is a result of bourgeois decadence and must be tempered", -5]
+    }
+  },
+  {
+    "question": "What is the state's function in a society structured by class antagonisms?",
+    "options": {
+      "A": ["A neutral body that arbitrates between competing interests to maintain harmony", 0],
+      "B": ["A reflection of the dominant culture's moral consensus", 0],
+      "C": ["A tool that ensures social services and legal equality across classes", 3],
+      "D": ["A coercive apparatus used to maintain the dominance of the ruling class", 5]
+    }
+  },
+  {
+    "question": "According to Marxist analysis, how are social classes primarily determined?",
+    "options": {
+      "A": ["Levels of education, upbringing, and cultural capital", 0],
+      "B": ["Wealth brackets and perceived social mobility", 3],
+      "C": ["One’s position in relation to control over productive property", 5],
+      "D": ["Degree of participation in democratic processes", 0]
+    }
+  },
+  {
+    "question": "What precondition is necessary to secure and maintain proletarian political power?",
+    "options": {
+      "A": ["A robust and independent press to expose abuses of power", 0],
+      "B": ["Mass mobilization of workers to seize the state and suppress counter-revolution", 5],
+      "C": ["Consensus-building through participatory local governance", 3],
+      "D": ["Electoral competition that keeps leadership accountable", 0]
+    }
+  },
+  {
+    "question": "How should we best understand imperialism in our current global moment?",
+    "options": {
+      "A": ["Primarily as a moral failure of powerful nations to respect sovereignty", 0],
+      "B": ["The extension of military dominance by undemocratic regimes", 3],
+      "C": ["The global stage of monopoly capitalism, exporting capital and securing superprofits abroad", 5],
+      "D": ["Strategic rivalries between blocs that vie for regional influence", 3]
+    }
+  },
+  {
+    "question": "What role ought workers in core imperialist nations play in global class struggle?",
+    "options": {
+      "A": ["Organize at home while encouraging responsible global policy", 0],
+      "B": ["Prioritize domestic reform efforts before worrying about the international sphere", 0],
+      "C": ["Reject their own ruling class’s imperialism and unite with workers of the global South", 5],
+      "D": ["Push for fair trade and diplomacy to reduce exploitation abroad", 3]
+    }
+  }
+]

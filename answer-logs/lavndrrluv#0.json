@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": "2025-09-11T00:59:26.503592Z",
+    "entries": [
+      {
+        "question": "This next question is simply for internal demographic calibration and does not affect your score — feel free to answer as honestly as you can, it will be marked as +5 regardless: have you ever been involved with or a supporter of Patriotic Socialist organizations such as the ACP, CPI (Center for Political Innovation), PCUSA, or any communist tendency rooted in Left-Wing Nationalism (e.g., MAGA Communism)?",
+        "answer": "I am not, but am looking to learn more about and join them and the ideology that motivates them.",
+        "points": -10
+      },
+      {
+        "question": "What contradiction lies at the core of capitalism’s eventual self-destruction?",
+        "answer": "The public’s growing awareness of capitalism’s emotional and psychological toll against the backdrop of declining living standards and rent extractionism.",
+        "points": 1
+      },
+      {
+        "question": "What is the real function of the state in societies shaped by class antagonism?",
+        "answer": "It exists to manage and enforce the interests of the ruling class by organizing violence under legal authority.",
+        "points": 5
+      },
+      {
+        "question": "Why do revolutions so often emerge in countries that are geopolitically marginal or economically underdeveloped?",
+        "answer": "Because the dual pressures of internal deprivation and external subordination leave little space for gradual reform or meaningful relief.",
+        "points": 5
+      },
+      {
+        "question": "Why does inequality persist — and worsen — even in wealthy liberal democracies with extensive institutions and civil liberties?",
+        "answer": "Because the economic base remains unchanged: those who own capital still dictate the terms of life for those who don't.",
+        "points": 5
+      },
+      {
+        "question": "What ensures that a revolution can not only succeed initially but also maintain its trajectory over time?",
+        "answer": "Broad-based democratic legitimacy and consistent public engagement in the institutions of the new state.",
+        "points": 3
+      },
+      {
+        "question": "According to Marxist theory, what most concretely defines a person’s social class?",
+        "answer": "Their structural position in the economy — whether they control productive assets or depend on selling their labor to survive.",
+        "points": 5
+      },
+      {
+        "question": "Why are queer and trans individuals often deeply embedded in revolutionary and emancipatory movements?",
+        "answer": "Because their experiences foster collective resilience that challenges prevailing social norms and institutions.",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-11T01:19:38.293787Z",
+    "entries": [
+      {
+        "question": "This next question is simply for internal demographic calibration and does not affect your score — feel free to answer as honestly as you can, it will be marked as +5 regardless: have you ever been involved with or a supporter of Patriotic Socialist organizations such as the ACP, CPI (Center for Political Innovation), PCUSA, or any communist tendency rooted in Left-Wing Nationalism (e.g., MAGA Communism)?",
+        "answer": "I am not, but am looking to learn more about and join them and the ideology that motivates them.",
+        "points": -10
+      },
+      {
+        "question": "What is the real function of the state in societies shaped by class antagonism?",
+        "answer": "It exists to manage and enforce the interests of the ruling class by organizing violence under legal authority.",
+        "points": 5
+      },
+      {
+        "question": "What ensures that a revolution can not only succeed initially but also maintain its trajectory over time?",
+        "answer": "Widespread social trust and a clear, peaceful roadmap for transition that avoids polarizing disruption.",
+        "points": 1
+      },
+      {
+        "question": "Why do some movements on the political left fail to resonate with working-class communities?",
+        "answer": "Because they disconnect from the dynamics of class conflict and drift toward messaging shaped by academic or cultural discourse.",
+        "points": 5
+      },
+      {
+        "question": "In the context of global inequality, what responsibility falls to workers in advanced, developed economies?",
+        "answer": "To oppose the foreign policies and economic structures that sustain exploitation abroad, and align materially with movements resisting domination.",
+        "points": 5
+      },
+      {
+        "question": "Why do revolutions so often emerge in countries that are geopolitically marginal or economically underdeveloped?",
+        "answer": "Because weaker institutions and uneven governance make it harder to contain or postpone systemic crises.",
+        "points": 1
+      },
+      {
+        "question": "What best describes the nature of imperialism in the present global system?",
+        "answer": "A failure of certain governments to uphold ethical standards of mutual respect between sovereign nations.",
+        "points": 0
+      },
+      {
+        "question": "According to Marxist theory, what most concretely defines a person’s social class?",
+        "answer": "Their structural position in the economy — whether they control productive assets or depend on selling their labor to survive.",
+        "points": 5
+      }
+    ]
+  }
+]

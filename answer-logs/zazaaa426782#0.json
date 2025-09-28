@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-09-11T00:03:47.680986Z",
+    "entries": [
+      {
+        "question": "This next question is simply for internal demographic calibration and does not affect your score — feel free to answer as honestly as you can, it will be marked as +5 regardless: have you ever been involved with or a supporter of Patriotic Socialist organizations such as the ACP, CPI (Center for Political Innovation), PCUSA, or any communist tendency rooted in Left-Wing Nationalism (e.g., MAGA Communism)?",
+        "answer": "I am not, but am looking to learn more about and join them and the ideology that motivates them.",
+        "points": -10
+      },
+      {
+        "question": "In the context of global inequality, what responsibility falls to workers in advanced, developed economies?",
+        "answer": "To focus on improving conditions at home first, ensuring national resilience before engaging internationally.",
+        "points": 0
+      },
+      {
+        "question": "Why do some movements on the political left fail to resonate with working-class communities?",
+        "answer": "Because they disconnect from the dynamics of class conflict and drift toward messaging shaped by academic or cultural discourse.",
+        "points": 5
+      },
+      {
+        "question": "Why do revolutions so often emerge in countries that are geopolitically marginal or economically underdeveloped?",
+        "answer": "Because the dual pressures of internal deprivation and external subordination leave little space for gradual reform or meaningful relief.",
+        "points": 5
+      },
+      {
+        "question": "What contradiction lies at the core of capitalism’s eventual self-destruction?",
+        "answer": "The more capitalism develops the forces of production, the more it sharpens the antagonism between capital and labor.",
+        "points": 5
+      },
+      {
+        "question": "Within a Communist framework, how should the fight for LGBTQ+ liberation be situated?",
+        "answer": "As a valid and important cause, though best advanced after class victory is secured.",
+        "points": 3
+      },
+      {
+        "question": "What best describes the nature of imperialism in the present global system?",
+        "answer": "A pattern in which powerful nations seek geopolitical influence by intervening in unstable regions.",
+        "points": 3
+      },
+      {
+        "question": "Why does inequality persist — and worsen — even in wealthy liberal democracies with extensive institutions and civil liberties?",
+        "answer": "Because the political will to reform systems like taxation and labor law has eroded over time.",
+        "points": 3
+      }
+    ]
+  }
+]

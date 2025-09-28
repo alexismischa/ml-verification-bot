@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-08-29T00:15:40.839953Z",
+    "entries": [
+      {
+        "question": "This next question is simply for internal demographic calibration and does not affect your score — feel free to answer as honestly as you can, it will be marked as +5 regardless: have you ever been involved with or a supporter of Patriotic Socialist organizations such as the ACP, CPI (Center for Political Innovation), PCUSA, or any communist tendency rooted in Left-Wing Nationalism (e.g., MAGA Communism)?",
+        "answer": "No, I disavow them due to my inherent political disagreements with their ideology.",
+        "points": 5
+      },
+      {
+        "question": "Within a Communist framework, how should the fight for LGBTQ+ liberation be situated?",
+        "answer": "As a necessary part of the broader revolutionary struggle, since capitalist class relations produce and enforce gendered and sexual oppression.",
+        "points": 5
+      },
+      {
+        "question": "What contradiction lies at the core of capitalism’s eventual self-destruction?",
+        "answer": "The more capitalism develops the forces of production, the more it sharpens the antagonism between capital and labor.",
+        "points": 5
+      },
+      {
+        "question": "What best describes the nature of imperialism in the present global system?",
+        "answer": "A stage of capitalism where dominant firms and states externalize extraction, using finance and militarism to secure global accumulation.",
+        "points": 5
+      },
+      {
+        "question": "What ensures that a revolution can not only succeed initially but also maintain its trajectory over time?",
+        "answer": "Broad-based democratic legitimacy and consistent public engagement in the institutions of the new state.",
+        "points": 3
+      },
+      {
+        "question": "Why are queer and trans individuals often deeply embedded in revolutionary and emancipatory movements?",
+        "answer": "Because systemic marginalization pushes them into positions where the underlying mechanics of power and exclusion become unavoidable realities.",
+        "points": 5
+      },
+      {
+        "question": "Why do revolutions so often emerge in countries that are geopolitically marginal or economically underdeveloped?",
+        "answer": "Because the dual pressures of internal deprivation and external subordination leave little space for gradual reform or meaningful relief.",
+        "points": 5
+      },
+      {
+        "question": "Why do some movements on the political left fail to resonate with working-class communities?",
+        "answer": "Because they disconnect from the dynamics of class conflict and drift toward messaging shaped by academic or cultural discourse.",
+        "points": 5
+      }
+    ]
+  }
+]

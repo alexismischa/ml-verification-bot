@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-09-10T23:29:14.285998Z",
+    "entries": [
+      {
+        "question": "This next question is simply for internal demographic calibration and does not affect your score — feel free to answer as honestly as you can, it will be marked as +5 regardless: have you ever been involved with or a supporter of Patriotic Socialist organizations such as the ACP, CPI (Center for Political Innovation), PCUSA, or any communist tendency rooted in Left-Wing Nationalism (e.g., MAGA Communism)?",
+        "answer": "I am not, but am looking to learn more about and join them and the ideology that motivates them.",
+        "points": -10
+      },
+      {
+        "question": "Why do revolutions so often emerge in countries that are geopolitically marginal or economically underdeveloped?",
+        "answer": "Because the dual pressures of internal deprivation and external subordination leave little space for gradual reform or meaningful relief.",
+        "points": 5
+      },
+      {
+        "question": "Why does inequality persist — and worsen — even in wealthy liberal democracies with extensive institutions and civil liberties?",
+        "answer": "Because the economic base remains unchanged: those who own capital still dictate the terms of life for those who don't.",
+        "points": 5
+      },
+      {
+        "question": "In the context of global inequality, what responsibility falls to workers in advanced, developed economies?",
+        "answer": "To preserve the cultural and strategic leadership of their nation in an increasingly unstable world.",
+        "points": -5
+      },
+      {
+        "question": "According to Marxist theory, what most concretely defines a person’s social class?",
+        "answer": "The degree to which they uphold core cultural norms and contribute to the long-term cohesion of their society.",
+        "points": -5
+      },
+      {
+        "question": "What contradiction lies at the core of capitalism’s eventual self-destruction?",
+        "answer": "The more capitalism develops the forces of production, the more it sharpens the antagonism between capital and labor.",
+        "points": 5
+      },
+      {
+        "question": "Why do some movements on the political left fail to resonate with working-class communities?",
+        "answer": "Because populist rhetoric often aligns more closely with the instincts and values of the average worker than leftist ideology does.",
+        "points": -5
+      },
+      {
+        "question": "What is the real function of the state in societies shaped by class antagonism?",
+        "answer": "It is an institution that is meant to govern the masses while preserving the history, culture and values, passed down through tradition.",
+        "points": 0
+      }
+    ]
+  }
+]

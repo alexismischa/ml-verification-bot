@@ -1,0 +1,3 @@
+discord.py[docs]
+Flask
+python-dotenv

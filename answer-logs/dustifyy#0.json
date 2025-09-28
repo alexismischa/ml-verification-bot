@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-09-11T05:09:46.924096Z",
+    "entries": [
+      {
+        "question": "This next question is simply for internal demographic calibration and does not affect your score — feel free to answer as honestly as you can, it will be marked as +5 regardless: have you ever been involved with or a supporter of Patriotic Socialist organizations such as the ACP, CPI (Center for Political Innovation), PCUSA, or any communist tendency rooted in Left-Wing Nationalism (e.g., MAGA Communism)?",
+        "answer": "I am not, but am looking to learn more about and join them and the ideology that motivates them.",
+        "points": -10
+      },
+      {
+        "question": "Why do revolutions so often emerge in countries that are geopolitically marginal or economically underdeveloped?",
+        "answer": "Because certain societies lack the cultural temperament needed to sustain lasting order and development.",
+        "points": -5
+      },
+      {
+        "question": "Why does inequality persist — and worsen — even in wealthy liberal democracies with extensive institutions and civil liberties?",
+        "answer": "Because the economic base remains unchanged: those who own capital still dictate the terms of life for those who don't.",
+        "points": 5
+      },
+      {
+        "question": "What contradiction lies at the core of capitalism’s eventual self-destruction?",
+        "answer": "The public’s growing awareness of capitalism’s emotional and psychological toll against the backdrop of declining living standards and rent extractionism.",
+        "points": 1
+      },
+      {
+        "question": "What is the real function of the state in societies shaped by class antagonism?",
+        "answer": "It exists to manage and enforce the interests of the ruling class by organizing violence under legal authority.",
+        "points": 5
+      },
+      {
+        "question": "Why do some movements on the political left fail to resonate with working-class communities?",
+        "answer": "Because populist rhetoric often aligns more closely with the instincts and values of the average worker than leftist ideology does.",
+        "points": -5
+      },
+      {
+        "question": "Why are queer and trans individuals often deeply embedded in revolutionary and emancipatory movements?",
+        "answer": "Because being marked as different often creates a natural skepticism toward authority and tradition.",
+        "points": 0
+      },
+      {
+        "question": "Within a Communist framework, how should the fight for LGBTQ+ liberation be situated?",
+        "answer": "As a cautionary entity, often led by the Liberal class with excessively radical ideas that lead to the erosion of moral and traditional cohesion of working-class nations.",
+        "points": -5
+      }
+    ]
+  }
+]

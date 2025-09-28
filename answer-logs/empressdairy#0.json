@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-09-11T01:07:04.790681Z",
+    "entries": [
+      {
+        "question": "This next question is simply for internal demographic calibration and does not affect your score — feel free to answer as honestly as you can, it will be marked as +5 regardless: have you ever been involved with or a supporter of Patriotic Socialist organizations such as the ACP, CPI (Center for Political Innovation), PCUSA, or any communist tendency rooted in Left-Wing Nationalism (e.g., MAGA Communism)?",
+        "answer": "I am currently a member of one or many of such organizations.",
+        "points": -30
+      },
+      {
+        "question": "Why does inequality persist — and worsen — even in wealthy liberal democracies with extensive institutions and civil liberties?",
+        "answer": "Because social norms haven't caught up with policy, allowing prejudice and exclusion to shape outcomes.",
+        "points": 1
+      },
+      {
+        "question": "Within a Communist framework, how should the fight for LGBTQ+ liberation be situated?",
+        "answer": "As a valid and important cause, though best advanced after class victory is secured.",
+        "points": 3
+      },
+      {
+        "question": "According to Marxist theory, what most concretely defines a person’s social class?",
+        "answer": "Their structural position in the economy — whether they control productive assets or depend on selling their labor to survive.",
+        "points": 5
+      },
+      {
+        "question": "In the context of global inequality, what responsibility falls to workers in advanced, developed economies?",
+        "answer": "To support institutional reforms that make global trade and diplomacy more equitable and less extractive.",
+        "points": 3
+      },
+      {
+        "question": "Why do some movements on the political left fail to resonate with working-class communities?",
+        "answer": "Because many working-class people are too focused on immediate concerns to appreciate long-term visions of justice.",
+        "points": 0
+      },
+      {
+        "question": "What contradiction lies at the core of capitalism’s eventual self-destruction?",
+        "answer": "The public’s growing awareness of capitalism’s emotional and psychological toll against the backdrop of declining living standards and rent extractionism.",
+        "points": 1
+      },
+      {
+        "question": "Why do revolutions so often emerge in countries that are geopolitically marginal or economically underdeveloped?",
+        "answer": "Because when hardship becomes widespread, people behave irrationally and destabilize the system.",
+        "points": 0
+      }
+    ]
+  }
+]

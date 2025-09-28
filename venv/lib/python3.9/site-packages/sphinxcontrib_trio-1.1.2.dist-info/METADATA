@@ -1,0 +1,68 @@
+Metadata-Version: 2.1
+Name: sphinxcontrib-trio
+Version: 1.1.2
+Summary: Make Sphinx better at documenting Python functions and methods
+Home-page: https://github.com/python-trio/sphinxcontrib-trio
+Author: Nathaniel J. Smith
+Author-email: njs@pobox.com
+License: MIT -or- Apache License 2.0
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Framework :: Sphinx :: Extension
+Classifier: Framework :: Trio
+Classifier: Framework :: AsyncIO
+Classifier: Framework :: Twisted
+Classifier: Topic :: Documentation :: Sphinx
+Classifier: Topic :: Software Development :: Documentation
+Requires-Dist: sphinx (>=1.7)
+
+.. note that this README gets 'include'ed into the main documentation
+
+sphinxcontrib-trio
+==================
+
+This sphinx extension helps you document Python code that uses
+async/await, or abstract methods, or context managers, or generators,
+or ... you get the idea. It works by making sphinx's regular
+directives for documenting Python functions and methods smarter and
+more powerful. The name is because it was originally written for the
+`Trio <https://trio.readthedocs.io>`__ project, and I'm not very
+creative. But don't be put off – there's nothing Trio- or
+async-specific about this extension; any Python project can
+benefit. (Though projects using async/await probably benefit the most,
+since sphinx's built-in tools are especially inadequate in this case.)
+
+
+Vital statistics
+----------------
+
+**Requirements:** This extension currently assumes you're using Python
+3.5+ to build your docs. This could be relaxed if anyone wants to send
+a patch.
+
+**Documentation:** https://sphinxcontrib-trio.readthedocs.io
+
+**Bug tracker and source code:**
+https://github.com/python-trio/sphinxcontrib-trio
+
+**License:** MIT or Apache 2, your choice.
+
+**Usage:** ``pip install -U sphinxcontrib-trio`` in the same
+environment where you installed sphinx, and then add
+``"sphinxcontrib_trio"`` to the list of ``extensions`` in your
+project's ``conf.py``. (Notice that ``"sphinxcontrib_trio"`` has an
+underscore in it, NOT a dot. This is because I don't understand
+namespace packages, and I fear things that I don't understand.)
+
+**Code of conduct:** Contributors are requested to follow our `code of
+conduct
+<https://github.com/python-trio/sphinxcontrib-trio/blob/master/CODE_OF_CONDUCT.md>`__
+in all project spaces.
+
+

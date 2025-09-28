@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-09-12T07:30:37.579741Z",
+    "entries": [
+      {
+        "question": "This next question is simply for internal demographic calibration and does not affect your score — feel free to answer as honestly as you can, it will be marked as +5 regardless: have you ever been involved with or a supporter of Patriotic Socialist organizations such as the ACP, CPI (Center for Political Innovation), PCUSA, or any communist tendency rooted in Left-Wing Nationalism (e.g., MAGA Communism)?",
+        "answer": "I am not, but am looking to learn more about and join them and the ideology that motivates them.",
+        "points": -10
+      },
+      {
+        "question": "What contradiction lies at the core of capitalism’s eventual self-destruction?",
+        "answer": "Its inability to protect national traditions and cultural identity from modern global homogenization, which leads to a fractured, hostile and low-trust society.",
+        "points": -5
+      },
+      {
+        "question": "What best describes the nature of imperialism in the present global system?",
+        "answer": "A stage of capitalism where dominant firms and states externalize extraction, using finance and militarism to secure global accumulation.",
+        "points": 5
+      },
+      {
+        "question": "What is the real function of the state in societies shaped by class antagonism?",
+        "answer": "It serves as the vanguard of national identity, as the unity of a nation and her people, against ideological and foreign subversion.",
+        "points": -5
+      },
+      {
+        "question": "Why are queer and trans individuals often deeply embedded in revolutionary and emancipatory movements?",
+        "answer": "Because their experiences foster collective resilience that challenges prevailing social norms and institutions.",
+        "points": 3
+      },
+      {
+        "question": "Within a Communist framework, how should the fight for LGBTQ+ liberation be situated?",
+        "answer": "As a necessary part of the broader revolutionary struggle, since capitalist class relations produce and enforce gendered and sexual oppression.",
+        "points": 5
+      },
+      {
+        "question": "Why does inequality persist — and worsen — even in wealthy liberal democracies with extensive institutions and civil liberties?",
+        "answer": "Because the economic base remains unchanged: those who own capital still dictate the terms of life for those who don't.",
+        "points": 5
+      },
+      {
+        "question": "Why do revolutions so often emerge in countries that are geopolitically marginal or economically underdeveloped?",
+        "answer": "Because weaker institutions and uneven governance make it harder to contain or postpone systemic crises.",
+        "points": 1
+      }
+    ]
+  }
+]

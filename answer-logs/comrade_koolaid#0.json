@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-09-12T18:02:12.348738Z",
+    "entries": [
+      {
+        "question": "This next question is simply for internal demographic calibration and does not affect your score — feel free to answer as honestly as you can, it will be marked as +5 regardless: have you ever been involved with or a supporter of Patriotic Socialist organizations such as the ACP, CPI (Center for Political Innovation), PCUSA, or any communist tendency rooted in Left-Wing Nationalism (e.g., MAGA Communism)?",
+        "answer": "No, I disavow them due to my inherent political disagreements with their ideology.",
+        "points": 5
+      },
+      {
+        "question": "What contradiction lies at the core of capitalism’s eventual self-destruction?",
+        "answer": "The more capitalism develops the forces of production, the more it sharpens the antagonism between capital and labor.",
+        "points": 5
+      },
+      {
+        "question": "According to Marxist theory, what most concretely defines a person’s social class?",
+        "answer": "Their structural position in the economy — whether they control productive assets or depend on selling their labor to survive.",
+        "points": 5
+      },
+      {
+        "question": "What best describes the nature of imperialism in the present global system?",
+        "answer": "A stage of capitalism where dominant firms and states externalize extraction, using finance and militarism to secure global accumulation.",
+        "points": 5
+      },
+      {
+        "question": "Within a Communist framework, how should the fight for LGBTQ+ liberation be situated?",
+        "answer": "As a necessary part of the broader revolutionary struggle, since capitalist class relations produce and enforce gendered and sexual oppression.",
+        "points": 5
+      },
+      {
+        "question": "Why does inequality persist — and worsen — even in wealthy liberal democracies with extensive institutions and civil liberties?",
+        "answer": "Because the political will to reform systems like taxation and labor law has eroded over time.",
+        "points": 3
+      },
+      {
+        "question": "What ensures that a revolution can not only succeed initially but also maintain its trajectory over time?",
+        "answer": "Broad-based democratic legitimacy and consistent public engagement in the institutions of the new state.",
+        "points": 3
+      },
+      {
+        "question": "Why do revolutions so often emerge in countries that are geopolitically marginal or economically underdeveloped?",
+        "answer": "Because weaker institutions and uneven governance make it harder to contain or postpone systemic crises.",
+        "points": 1
+      }
+    ]
+  }
+]

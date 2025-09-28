@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-09-11T07:52:13.725416Z",
+    "entries": [
+      {
+        "question": "This next question is simply for internal demographic calibration and does not affect your score — feel free to answer as honestly as you can, it will be marked as +5 regardless: have you ever been involved with or a supporter of Patriotic Socialist organizations such as the ACP, CPI (Center for Political Innovation), PCUSA, or any communist tendency rooted in Left-Wing Nationalism (e.g., MAGA Communism)?",
+        "answer": "I am not, but am looking to learn more about and join them and the ideology that motivates them.",
+        "points": -10
+      },
+      {
+        "question": "What best describes the nature of imperialism in the present global system?",
+        "answer": "A pattern in which powerful nations seek geopolitical influence by intervening in unstable regions.",
+        "points": 3
+      },
+      {
+        "question": "Why does inequality persist — and worsen — even in wealthy liberal democracies with extensive institutions and civil liberties?",
+        "answer": "Because social norms haven't caught up with policy, allowing prejudice and exclusion to shape outcomes.",
+        "points": 1
+      },
+      {
+        "question": "What contradiction lies at the core of capitalism’s eventual self-destruction?",
+        "answer": "Its inability to protect national traditions and cultural identity from modern global homogenization, which leads to a fractured, hostile and low-trust society.",
+        "points": -5
+      },
+      {
+        "question": "Within a Communist framework, how should the fight for LGBTQ+ liberation be situated?",
+        "answer": "As a cautionary entity, often led by the Liberal class with excessively radical ideas that lead to the erosion of moral and traditional cohesion of working-class nations.",
+        "points": -5
+      },
+      {
+        "question": "What ensures that a revolution can not only succeed initially but also maintain its trajectory over time?",
+        "answer": "The restoration of clear hierarchies and responsibilities that reinforce long-standing customs and social order.",
+        "points": -5
+      },
+      {
+        "question": "Why do some movements on the political left fail to resonate with working-class communities?",
+        "answer": "Because they sometimes elevate symbolic representation over struggles that directly impact material survival and workplace conditions.",
+        "points": 3
+      },
+      {
+        "question": "What is the real function of the state in societies shaped by class antagonism?",
+        "answer": "It serves as the vanguard of national identity, as the unity of a nation and her people, against ideological and foreign subversion.",
+        "points": -5
+      }
+    ]
+  }
+]
